@@ -5,6 +5,7 @@ package matrix
 // D.h. die gesamte Zeile col wird durch das Diagonalelement geteilt.
 func (m Matrix) Normalize(col int) {
 	// TODO
+	
 }
 
 // EliminateBelow erwartet eine Spaltennummer `col`.
